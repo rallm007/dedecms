@@ -1,0 +1,8 @@
+/uploads/uploads/*
+/uploads/data/uploadtmp/*
+/uploads/data/ziptmp/*
+/uploads/data/sessions/*
+/uploads/data/cache/*
+/uploads/data/tplcache/*
+*.log
+/uploads/install
